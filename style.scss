@@ -702,7 +702,7 @@ tfoot{
       font-weight: bold;
       border: none;
       
-    }
+    } 
 
 
 
@@ -713,6 +713,7 @@ tfoot{
     width: 95%;
     max-width: 100vw;
     height: 60vh;
+    object-fit: cover;
 }
 
 .producto-carrito {

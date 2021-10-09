@@ -637,6 +637,8 @@ tfoot {
   width: 95%;
   max-width: 100vw;
   height: 60vh;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .producto-carrito {
